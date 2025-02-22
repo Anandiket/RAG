@@ -1,0 +1,8 @@
+# Required libraries for Google API, Hugging Face, and other dependencies
+streamlit
+python-dotenv
+PyPDF2
+langchain
+langchain-google-genai
+langchain-community
+fpdf 
